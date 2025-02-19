@@ -1,8 +1,8 @@
-## 🔢 Variáveis e tipos de dados em Python  
+# 🔢 Variáveis e tipos de dados em Python  
 
 As **variáveis** são usadas para armazenar valores que podem ser reutilizados no programa.  
 
-### 🔹 Declarando Variáveis  
+## 🔹 Declarando Variáveis  
 
 ```python
 nome = "Vinicius"

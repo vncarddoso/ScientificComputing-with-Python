@@ -1,8 +1,8 @@
-## 📂 Estruturas de Dados em Python  
+# 📂 Estruturas de Dados em Python  
 
 As **estruturas de dados** são usadas para armazenar e organizar informações de forma eficiente.  
 
-### 🔹 Listas (`list`)  
+## 🔹 Listas (`list`)  
 
 Uma **lista** armazena múltiplos valores em uma única variável.  
 
@@ -12,7 +12,7 @@ print(numeros[0])  # Acessa o primeiro elemento
 numeros.append(6)  # Adiciona um elemento
 ```
 
-### Métodos úteis:  
+### Métodos úteis  
 
 ```python
 numeros.remove(3)  # Remove um valor
@@ -53,7 +53,7 @@ pessoa = {"nome": "Vinicius", "idade": 19}
 print(pessoa["nome"])  # Saída: Vinicius
 ```
 
-#### Adicionando e modificando valores:  
+#### Adicionando e modificando valores  
 
 ```python
 pessoa["altura"] = 1.89
