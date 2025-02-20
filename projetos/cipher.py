@@ -29,10 +29,10 @@ def vigenere(message, key, direction=1):
 def encrypt(message, key):
     return vigenere(message, key)
 
-def decrypt(message, key):
+def  decrypt(message, key):
     return vigenere(message, key, -1)
 
-encryption = vigenere(text, custom_key)
+encryption = encrypt(text, custom_key)
 print(encryption)
-decryption = vigenere(encryption, custom_key, -1)
+decryption = decrypt(encryption, custom_key, -1)
 print(decryption)

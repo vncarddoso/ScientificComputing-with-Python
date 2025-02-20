@@ -1,6 +1,6 @@
 # 📚 Scientific Computing with Python – FreeCodeCamp  
 
-Este repositório contém meus estudos e exercícios do curso **"Scientific Computing with Python"** do FreeCodeCamp. Meu objetivo é consolidar meu aprendizado em Python e aprofundar conceitos fundamentais de ciência da computação.
+Este repositório contém meus estudos e exercícios do curso **"Scientific Computing with Python"** do [FreeCodeCamp](https://www.freecodecamp.org/learn). Meu objetivo é consolidar meu aprendizado em Python e aprofundar conceitos fundamentais de ciência da computação.
 
 ## 📌 Conteúdo
 
