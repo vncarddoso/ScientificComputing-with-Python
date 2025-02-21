@@ -1,6 +1,6 @@
 # Learn String Manipulation by Building a Cipher
 
-text = 'Hello Zaira!'
+text = 'happycoding'
 custom_key = 'python'
 
 def vigenere(message, key, direction=1):
@@ -28,11 +28,11 @@ def vigenere(message, key, direction=1):
 
 def encrypt(message, key):
     return vigenere(message, key)
-
-def  decrypt(message, key):
+    
+def decrypt(message, key):
     return vigenere(message, key, -1)
 
-encryption = encrypt(text, custom_key)
-print(encryption)
-decryption = decrypt(encryption, custom_key, -1)
-print(decryption)
+print(f'\nEncrypted text: {text}')
+print(f'Key: {custom_key}')
+decryption = decrypt(text, custom_key)
+print(f'\nDecrypted text: {decryption}\n')
