@@ -8,8 +8,8 @@ Ciência da Computação é o estudo de algoritmos, estruturas de dados e como o
 
 ## 🔹 Por que Python?  
 
-✅ Simples e fácil de aprender, ótimo pra primeira linguagem e prática de lógica de programação 
-✅ Código legível e de alta produtividade  
+✅ Simples e fácil de aprender, ótimo pra primeira linguagem e prática de lógica de programação.
+✅ Código legível e de alta produtividade.
 ✅ Possui bibliotecas poderosas para computação científica (NumPy, Pandas, Matplotlib, etc.)  
 
 ---
