@@ -57,7 +57,7 @@ print(pessoa["nome"])  # Saída: Vinicius
 
 ```python
 pessoa["altura"] = 1.89
-pessoa["idade"] = 20
+pessoa["idade"] = 19
 ```
 
 ---

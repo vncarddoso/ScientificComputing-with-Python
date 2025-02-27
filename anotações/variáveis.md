@@ -8,7 +8,7 @@ As **variáveis** são usadas para armazenar valores que podem ser reutilizados 
 nome = "Vinicius"
 idade = 19
 altura = 1.90
-peso = 70.0
+peso = 67.0
 ativo = True
 ```
 
