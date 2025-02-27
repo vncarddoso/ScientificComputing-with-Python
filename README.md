@@ -28,3 +28,4 @@ Este repositório contém meus estudos e exercícios do curso **"Scientific Comp
 ├── 📁 projetos
 │   └── ...
 └── README.md
+```
