@@ -49,7 +49,7 @@ print(numeros_unicos)  # Saída: {1, 2, 3, 4}
 Dicionários armazenam **pares chave-valor**.  
 
 ```python
-pessoa = {"nome": "Vinicius", "idade": 19}
+pessoa = {"nome": "Vini", "idade": 19}
 print(pessoa["nome"])  # Saída: Vinicius
 ```
 
