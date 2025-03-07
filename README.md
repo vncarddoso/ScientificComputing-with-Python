@@ -23,9 +23,7 @@ Este repositório contém meus estudos e exercícios do curso **"Scientific Comp
 │   ├── variaveis.md
 │   ├── estruturas_de_dados.md
 │   └── ...
-├── 📁 exercicios
-│   └── ...
-├── 📁 projetos
+├── 📁 steps
 │   └── ...
 └── README.md
 ```
