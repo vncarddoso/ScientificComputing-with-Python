@@ -1,27 +1,26 @@
 # 📚 Scientific Computing with Python – FreeCodeCamp  
 
-Este repositório contém meus estudos e exercícios do curso **"Scientific Computing with Python"** do [FreeCodeCamp](https://www.freecodecamp.org/learn). Meu objetivo é consolidar meu aprendizado em Python e aprofundar conceitos fundamentais de ciência da computação.
-
+This repository contains my studies and exercises from the Scientific Computing with Python course from FreeCodeCamp. My goal is to consolidate my learning in Python and deepen fundamental concepts of computer science.
 ## 📌 Conteúdo
 
-✅ **Anotações e Resumos** – Conceitos essenciais abordados no curso  
-✅ **Exercícios Resolvidos** – Minhas soluções para os desafios propostos  
-✅ **Projetos Práticos** – Pequenos projetos para aplicar os conhecimentos adquiridos  
+✅ **Notes and summaries** – essential concepts covered in the course
+✅ **Solved exercises** – My solutions to the proposed challenges
+✅ **Practical Projects** – Small projects to apply the knowledge acquired
 
-## 🚀 Tecnologias Utilizadas  
+## 🚀 Technologies Used
 
 - Python 🐍  
-- Jupyter Notebook (quando aplicável) 📒  
-- Bibliotecas: NumPy, Pandas, Matplotlib, entre outras  
+- Jupyter Notebook (when applicable) 📒  
+- Libraries: NumPy, Pandas, Matplotlib, etc. 
 
-## 📂 Estrutura do Repositório  
+## 📂 Structure
 
 ```bash
 📦 Scientific Computing with Python
-├── 📁 anotações
-│   ├── introducao.md
-│   ├── variaveis.md
-│   ├── estruturas_de_dados.md
+├── 📁 notes
+│   ├── intro.md
+│   ├── variables.md
+│   ├── data_structure.md
 │   └── ...
 ├── 📁 steps
 │   └── ...
